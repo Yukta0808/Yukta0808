@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yukta0808
-- 👀 I’m interested in Reading books,crotchet,music and theatre
-- 🌱 I’m currently learning Visual Studio code
-- 💞️ I’m looking to collaborate on Nothing in coding.NOTHING.
+- 👀 I’m interested in Reading books,music and theatre
+- 🌱 I’m currently learning Snack expo
 - 📫 How to reach me, I wont tell. HAHA!
 
 <!---
